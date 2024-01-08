@@ -1,0 +1,14 @@
+
+. Uporządkować html - TO DO 
+. Opublikować stronę np. na github pages.
+. Dodać zdjęcie jaj
+
+
+Powiększenie zdjęcia z wykorzystaniem JS, wyjaśnienie z gpt, nie sprawdzałem. 
+https://chat.openai.com/share/94e1bf6c-943e-45ca-adf8-5334ed1cd871
+
+
+Wiersze o motylach : https://podlaskisenior.pl/w-trzepocie-motylich-skrzydel-wiersze-podlaskich-poetow/
+
+------------------------
+* Główna strona - podzielić na dwa bloki - po lewej tekst - po prawej zdjęcie 
